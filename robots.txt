@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: 
+Allow: /public_html
+
+
+Sitemap: https://tahaanpestsolutions.com/sitemap.xml

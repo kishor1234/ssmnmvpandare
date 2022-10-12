@@ -1,0 +1,77 @@
+/******---------background color change------********/
+.top_header_wrapper:before, .pst_logo, .appointmnt_wrapper li a, #nav_filter .hovr_nav_tab li a:hover, .pst_btn_form li a, .main:hover .main_ser_hover, .sp_icon_img a i, .main:hover .rotate, .icon i, .team_about .team-content ul li a:hover, .team_txt_icon, .gallery-area .gallery-list:hover a span, .lest_news_date_wrapper p, .yelow_bg, .pricing_btn_ornge:hover .price_btn_hover .btn-front, .price_btn_hover:hover .btn-front, .pricing_btn_ornge:hover .btn-back, .price_btn_hover:hover .pricing_btn_ornge .btn-back, .pricing_btn_ornge:hover .btn-back, .pricing_btn_blue:hover .price_btn_hover .btn-front, .price_btn_hover:hover .btn-front, .pricing_btn_blue:hover .price_btn_hover .btn-front, .price_btn_hover:hover .btn-front, .pricing_btn_blue:hover .btn-back, .price_btn_hover:hover .pricing_btn_blue .btn-back, .pricing_btn_blue:hover .btn-back, .pricing_btn_purple:hover .btn-back, .price_btn_hover:hover .pricing_btn_purple .btn-back, .pricing_btn_purple:hover .btn-back, .wrapper_email_button i, .video_sec_icon_wrapper li a, .blog_single_cont1_wrapper, .gc_blog_cloud_side_menu li a:hover, .blog_comment1_wrapper:hover, .cntct_2_btn_wrapper button, .contact_section_hours, .cnt-icon-img i, .social_icon3 ul li a, .header_nav_div img, .pc_abt_img_wrapper{
+		background:#1ed0a4;
+}
+.ddd:hover{
+                background: #1ed0a4;
+            }
+ #sidebar img{
+	 	background:#1ed0a4;
+ }
+/*******---------color change----------*********/
+.top_header_add ul li i, .top_header_add ul li a:hover, .tem-btn-alt:hover .btn-front, .single-blog:hover .appint-btn .btn-front, .appint-btn:hover .btn-front, .tem-btn-alt:hover .btn-back, .single-blog:hover .appint-btn .btn-back, .appint-btn:hover .btn-back, #search_button i:hover, #nav_filter li a:hover, .caret, .tem-btn-alt:hover .btn-back, .single-blog:hover .tem-btn .btn-back, .tem-btn:hover .btn-back, .sp_feature_cntnt i, .main:hover h4 a, .main h6 a, .aboutus_slider_wrapper .owl-theme .owl-nav .owl-prev:hover span, .aboutus_slider_wrapper .owl-theme .owl-nav .owl-next:hover span, .icon_wrapper:hover .sp_icon_img a i, .icon_wrapper:hover .icon_content_box h4 a, .team_slider_wrapper .owl-theme .owl-nav .owl-prev:hover span, .team_slider_wrapper .owl-theme .owl-nav .owl-next:hover span, .sp-member-info h1 a, .team_about:hover .team_txt a, .section2_text_wrapper h4, .testimonial_slider_wrapper .owl-theme .owl-nav .owl-next:hover, .testimonial_slider_wrapper .owl-theme .owl-nav .owl-prev, .gallery-area .portfolio-nav ul li.is-checked, .counterTwo h4 a, .lest_news_date_wrapper li:first-child, .lest_news_box_wrapper:hover .lest_news_cont_wrapper h5 a, .lest_news_box_wrapper:hover .lest_news_cont_wrapper h4 a, .lest_news_img_wrapper .authpor_img ul li a:hover, .lest_news_img_wrapper .author_text h1 a:hover,.lest_news_box_wrapper:hover .lest_news_cont_wrapper h5 a, .lest_news_box_wrapper:hover .lest_news_cont_wrapper h4 a, .lest_news_img_wrapper .authpor_img ul li a:hover, .lest_news_img_wrapper .author_text h1 a:hover, .lest_news_cont_wrapper h4 a, .mesage_left_wrapper h1, .btm_newsletter_text h3, .wrapper_first_icon i, .foter_contact_nav ul li a p:hover, .aboutus_social_icons li a:hover, .wrapper_second_useful ul li a:hover, .ft_blog_text h5 a:hover, .section3_copyright p a, #return-to-top i, #return-to-top, .page_header .sub_title li:last-child, .page_header .sub_title a:hover, .content ul li i, .abt_chk ul li:hover, .service_slider_wrapper .owl-theme .owl-nav .owl-prev:hover, .service_slider_wrapper .owl-theme .owl-nav .owl-next:hover, .lest_news_cont_bottom_left p i, .lest_news_cont_bottom_right p i, .lest_news_cont_bottom_center p i, .lest_news_cont_bottom_right_2 p i, .lest_news_cont_bottom_left p a:hover, .lest_news_cont_bottom_center p a:hover, .lest_news_cont_bottom_right p a:hover, .lest_news_cont_bottom_right_2 p a:hover, .search_form button i, .archives_wrapper ul li:hover a, .archives_wrapper ul li:hover i, .archives_wrapper ul li i, .archives_wrapper span, .sc_blog_text h5 a:hover, .sc_blog_date, .cmmnt_heading_wrapper h2 span, .blog_comment1_cont p span, .news_blog_btm_bordr h6 a, .blog_cat_slider_wrapper .owl-theme .owl-nav .owl-prev:hover, .blog_cat_slider_wrapper .owl-theme .owl-nav .owl-next:hover, .blog_pagination_section .blog_pagination_after a, .cnt-icon-content p a:hover, .cnt_icon_wrapper:hover .cnt-icon-img i{
+		color:#1ed0a4;
+}
+
+
+
+
+/******------slider color-------********/
+.slider_area .slider_txt_1 span, .lest_news_date_wrapper li:last-child, .lest_news_date_wrapper li:first-child{
+	color:#1ed0a4 !important;
+}
+.slider_btn_2{
+	background-color:#1ed0a4 !important;
+	border:2px solid #1ed0a4 !important;
+}
+.tparrows.tp-leftarrow, .tparrows.tp-rightarrow{
+	border-bottom:5px solid #1ed0a4 !important;
+}
+.slider_btm_border{
+	background:#1ed0a4 !important;
+}
+
+/********--------- 2 border color change-----**********/
+.pst_btn_form li a, .pst_btn_form li a:hover, .cnt_icon_wrapper:hover .cnt-icon-img i, .cntct_2_btn_wrapper button:hover, .cnt_icon_wrapper:hover{
+	border:2px solid #1ed0a4;
+}
+.pst_single_forms input{
+	border-bottom:2px solid #1ed0a4 !important;
+}
+
+
+
+.sp_choose_heading_main_wrapper h2:before, .sp_choose_heading_main_wrapper h2:after, .sp_choose_heading_main_wrapper h2 span:before, .sp_choose_heading_main_wrapper h2 span:after, .team_about .team-content ul li a:hover, .sidebar_widget h4 span:before, .sidebar_widget h4 span:after, .page_header_line h1:before, .page_header_line h1:after, .page_header_line h1 span:before, .page_header_line h1 span:after, .gc_blog_cloud_side_menu li a:hover, .contect_form1 input:hover, .contect_form1 input:focus, .contect_form2 input:hover, .contect_form2 input:focus, .contect_form4 textarea:hover, .contect_form4 textarea:focus, .contact_form_section input:hover, .contact_form_section textarea:hover, .contact_form_section input:hover, .contact_form_section textarea:hover{
+	border:1px solid #1ed0a4;
+}
+
+.main:before{
+	border-right:1px solid #1ed0a4;
+	border-left:1px solid #1ed0a4;
+}
+.main:after{
+	border-top: 1px solid #1ed0a4;
+    border-bottom: 1px solid #1ed0a4;
+}
+
+.aboutus_slider_wrapper .owl-theme .owl-nav .owl-prev, .aboutus_slider_wrapper .owl-theme .owl-nav .owl-next, .team_slider_wrapper .owl-theme .owl-nav .owl-prev, .team_slider_wrapper .owl-theme .owl-nav .owl-next{
+	border-bottom:6px solid #1ed0a4;
+}
+
+.pricing_btn_ornge:hover .btn-back, .price_btn_hover:hover .pricing_btn_ornge .btn-back, .pricing_btn_ornge:hover .btn-back, .pricing_btn_blue:hover .btn-back, .price_btn_hover:hover .pricing_btn_blue .btn-back, .pricing_btn_blue:hover .btn-back, .pricing_btn_purple:hover .btn-back, .price_btn_hover:hover .pricing_btn_purple .btn-back, .pricing_btn_purple:hover .btn-back{
+	color:#fff;
+}
+
+.blog_pagination_after a:before{
+	    border-top: 6px solid #1ed0a4;
+		color:#1ed0a4;
+}
+#cssmenu ul li:hover a, #cssmenu ul li.active a{
+	background:#1ed0a4 !important;
+}
+#cssmenu ul li a{
+	border-bottom:1px solid #1ed0a4;
+}
+#cssmenu ul li:first-child a{
+	border-top:1px solid #1ed0a4;
+}

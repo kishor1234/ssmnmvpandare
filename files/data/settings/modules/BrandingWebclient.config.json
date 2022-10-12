@@ -1,0 +1,14 @@
+{
+    "Disabled": [
+        false,
+        "bool"
+    ],
+    "LoginLogo": [
+        "http:\/\/secsomeshwar.ac.in\/logo2.jpg",
+        "string"
+    ],
+    "TabsbarLogo": [
+        "http:\/\/host.aasksoft.co.in\/assets\/hlogo.ico",
+        "string"
+    ]
+}

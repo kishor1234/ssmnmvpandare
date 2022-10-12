@@ -1,0 +1,247 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Aug, 2019, 2:08:40 AM
+    Author     : asksoft
+*/
+
+
+.btn-custom-black{
+    background-color: #000;
+    border-color: #000;
+    color:#FFF;
+}
+.client_logo{
+    position: absolute;
+    height: 300px;
+}
+.maind li{
+    float: left;
+    padding: 10px;
+}
+#mobile_hide{
+    display: block;
+}
+.header_nav_div a img{
+    background-color: transparent;
+}
+#sidebar img{
+    background-color: transparent;
+}
+.main{
+    height: 235px;
+}
+.get_call_fixed{
+    width: 51px;
+    height: 154px;
+    background-image: url(../../../assets/html/images/get_call.webp);
+    position: fixed;
+    z-index: 10000;
+    right: 0px;
+    top: 140px;
+    cursor:pointer;
+}
+#pricecalc{
+    display: block;
+}
+#page_header_bottom{
+    background-color: #479bc2;
+}
+#pricecalc{
+    display: block;
+    margin-top: 15px;
+
+}
+#space{
+    background-color: #000000;
+
+}
+.black{
+    background-color: #000000;
+    color:#479bc2;
+    border-radius: 0;
+    border: #479bc2;
+}
+.black:hover{
+    background-color: #000000;
+    color:#479bc2;
+    border-radius: 0;
+    border: #479bc2;
+}
+table {
+    margin: auto;
+    border-collapse: collapse;
+    overflow-x: auto;
+    display: block;
+    width: fit-content;
+    max-width: 100%;
+    /*box-shadow: 0 0 1px 1px rgba(0, 0, 0, .1);*/
+}
+
+td, th {
+    border: solid rgb(200, 200, 200) 1px;
+    padding: .5rem;
+}
+
+th {
+    text-align: left;
+    background-color: rgb(190, 220, 250);
+    text-transform: uppercase;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: rgb(50, 50, 100) solid 2px;
+    border-top: none;
+}
+
+td {
+    white-space: nowrap;
+    border-bottom: none;
+    color: rgb(20, 20, 20);
+}
+
+td:first-of-type, th:first-of-type {
+    border-left: none;
+}
+
+td:last-of-type, th:last-of-type {
+    border-right: none;
+}
+.btn-custom{
+    background-color: #479bc2;
+    border: #479bc2;
+    color: #FFF;
+    width: 20px;
+    height: 20px;
+    padding: 0px;
+
+}
+.btn-custom-oval{
+    background-color: #479bc2;
+    border: #479bc2;
+    color: #FFFFFF;
+    padding: 6px;
+    border-radius: 100%;
+}
+#text-white{
+    color: #FFFFFF;
+}
+.inspection{
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+    background-image: url('../../../assets/html/images/new/inspection.jpg');
+
+}
+.strategy{
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+    background-image: url('../../../assets/html/images/new/strategy.jpg');
+}
+.planning{
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+    background-image: url('../../../assets/html/images/new/planning.jpg');
+}
+.execution{
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+    background-image: url('../../../assets/html/images/new/execution.jpg');
+}
+.theamcolor{
+    color:#000;
+}
+.main_ser_hover{
+    position:relative; z-index: 100;
+}
+.sp_choose_main_wrapper
+{
+    background-color: #dff4f9;
+   
+    color:#000;
+
+}
+.sp_choose_main_wrapper a:hover{
+    color:#000;
+
+}
+.pst_bottompadder50 h2{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -40px;
+}
+.main2{
+
+    height: 150px
+}
+#mobile{
+    display:none;
+}
+#web{
+    display: block;
+}
+.owl-carousel 
+{
+    touch-action: manipulation; 
+}
+#center{
+    display: block;
+}
+
+.btn-success,.btn-warning {
+    color: #000;
+    background-color: #ddbb00;
+    border-color: #ddbb00;
+}
+.btn-success:hover,.btn-warning:hover {
+    color: #fff;
+    background-color: #479bc2;
+    border-color: #479bc2;
+}
+@media screen and (max-width:750px){
+    #center{
+        display: inline-block;
+    }
+    #mobile{
+        display:block;
+    }
+    #web{
+        display: none;
+    }
+    .sp_choose_main_wrapper
+    {
+        border-top-left-radius:0%;
+        border-bottom-right-radius:0%
+    }
+    #mobile_hide{
+        display: none;
+    }
+    #pricecalc{
+        display: none;
+    }
+    #space{
+        display:none;
+    }
+    .get_call_fixed{
+        width: 51px;
+        height: 142px;
+        background-image: url(../../../assets/html/images/get_call.webp);
+        position: fixed;
+        z-index: 10000;
+        right: 0px;
+        top: 140px;
+        cursor:pointer;
+    }
+    .pst_bottompadder50{
+        margin-top: 50px;
+    }
+}

@@ -1,0 +1,11 @@
+<?php
+
+$keyId = 'rzp_test_7L1xvxj0nUVANr';
+$keySecret = '1p78UKE00pXor0mDl3F4Eaun';
+$displayCurrency = 'INR';
+
+//These should be commented out in production
+// This is for error reporting
+// Add it to config.php to report any errors
+error_reporting(0);
+ini_set('display_errors', 1);

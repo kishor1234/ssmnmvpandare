@@ -1,0 +1,14 @@
+{
+    "Disabled": [
+        false,
+        "bool"
+    ],
+    "LoginLogo": [
+        "http:\/\/host.aasksoft.co.in\/assets\/hlogo.ico",
+        "string"
+    ],
+    "TabsbarLogo": [
+        "http:\/\/host.aasksoft.co.in\/assets\/hlogo.ico",
+        "string"
+    ]
+}

@@ -1,0 +1,162 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 Oct, 2019, 4:59:04 PM
+    Author     : asksoft
+*/
+body{
+    background-color: #FFF !important;
+}
+#banner{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.bg-dark {
+    background-color: #343a40 !important;
+    opacity: 0.8;
+}
+.bg-transparent {
+    background-color: transparent !important;
+}
+.img-responsive{
+    width: 100% !important;
+    height: auto;
+}
+.brand{
+    width: 150px;
+    height: auto;
+}
+.nav li  {
+    float: right !important;
+    //margin-right: 50px;
+}
+#navbarColor02 {
+    //background-color: #000;
+    //opacity: 0.8;
+}
+.container-fluid {
+    width: 100%  !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+#animated-thumbnials{
+    //position: fixed !important;
+    padding: 0px !important;
+    margin: 0px !important;
+    left: 0 !important;
+    right: 0px !important;
+}
+#animated-thumbnials .col-3{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+#animated-thumbnials a img{
+
+    width: 100% !important;
+    height: auto !important;
+    padding: 0px !important;
+    margin:0px !important;
+    margin-right: -4px !important;
+}
+footer{
+    background-image: url("../images/HOMEPAGE/Natsmraat_7.jpg");
+    background-size: cover;
+
+
+}
+.overlay{
+    background-color: #343a40;
+    right:  0 !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    width: 100% !important;
+    height: 154% !important;
+    z-index: 9999;
+    opacity: 0.8;
+
+}
+
+#founder{
+    color:#FFF;
+    padding-left: 5px;
+}
+#founder img{
+    margin-top: 50px;
+    width: 100%;    
+    height: auto;
+
+}
+#founder h1{
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 30px;
+}
+#founder span{
+    font-weight: bold;
+}
+#founder p{
+    text-align: justify;
+    font-size: 12px;
+}
+#founder p strong{
+    font-weight: bold;
+    font-size: 2em;
+}
+/*#footer.col-5{
+    width: 600px !important;
+}
+#footer.col-1{
+    width: 65px !important;
+}*/
+.vsepd{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/501b147ae4b07cab1f91ea20/1434574568021-6LC7YGASIWZA8VB3AU00/ke17ZwdGBToddI8pDm48kMIebV6MdNPQMcRDrC5oPxMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKctvtKxvFKvzGJ1i3etrw6jWr5XLgW84HmgctGrHIIy7VqiFIry_j_CAPMtj0TsXq-/image-asset.png");
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    height: 100% !important;
+
+}
+#contact{
+    color:#FFF;
+    margin-top: 50px;
+    
+}
+#social img{
+    width:  auto;
+    height: 50px;
+}
+#image1{
+    position: absolute;
+    width: 100% !important;
+    height: auto !important;
+}
+#image2{
+    top:0%;
+    left: 0%; 
+    position: relative;
+    width: 100%;
+    height: auto;
+    z-index: 2;
+}
+#map img{
+    width:50% !important;
+    height: auto !important;
+}
+
+///responsive widn480px;
+@media only screen and (min-width: 480px) {
+    #founder{
+        color:#FFF;
+        padding-left: 0px !important;
+    }
+    #founder img{
+        margin-top: 50px;
+        width: 100%;    
+        height: auto;
+
+    }
+    
+}
